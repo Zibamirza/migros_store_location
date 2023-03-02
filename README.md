@@ -1,0 +1,1 @@
+# migros_store_location
